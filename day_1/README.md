@@ -4,27 +4,27 @@ Here's a checklist for this week's tasks:
 
 ## Practice
 
-- [ ] Create a fork of the [workshop repository][workshop-repo].
-- [ ] [Install the Rust toolchain][install-rust].
-- [ ] Setup your editor for Rust development.
+- [x] Create a fork of the [workshop repository][workshop-repo].
+- [x] [Install the Rust toolchain][install-rust].
+- [x] Setup your editor for Rust development.
       If you're using Visual Studio Code, simply install the recommended extensions.
   - LSP ([rust-analyzer])
   - debugging support
-- [ ] Configure your LSP to use Rust's official linter, clippy.
+- [x] Configure your LSP to use Rust's official linter, clippy.
   - [Instructions for Visual Studio Code][vscode-clippy]
-  - [ ] Fix all linter warnings in `hello-clippy`.
-- [ ] Setup [rustlings].
+  - [x] Fix all linter warnings in `hello-clippy`.
+- [x] Setup [rustlings].
       This will download a `rustlings` folder wherever you run the setup command.
       To keep things organized, you can run the setup here inside your fork.
       The `rustlings` directory will be ignored by git, but you'll have everything in one place.
 - Solve rustlings exercises:
-  - [ ] variables
-  - [ ] if
-  - [ ] functions
-  - [ ] quiz 1
-  - [ ] primitive types
-  - [ ] vectors
-  - [ ] move semantics (== ownership)
+  - [x] variables
+  - [x] if
+  - [x] functions
+  - [x] quiz 1
+  - [x] primitive types
+  - [x] vectors
+  - [x] move semantics (== ownership)
 
 ## Homework
 
@@ -32,7 +32,7 @@ The purpose here is to get you comfortable reading documentation and make you aw
 Don't get bogged down in the details.
 Read until you are satisfied and make a mental note that these things exist.
 
-- [ ] Check out "Rust By Example"
+- [x] Check out "Rust By Example"
   - [Nesting and labels](https://doc.rust-lang.org/rust-by-example/flow_control/loop/nested.html)
 - [ ] standard library documentation
   - [`str::chars`](https://doc.rust-lang.org/stable/std/primitive.str.html#method.chars)
