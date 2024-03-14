@@ -7,24 +7,24 @@ Here's a checklist for this week's tasks:
 - Solve rustlings exercises.
   Watch out, one of the exercises for error handling requires something only covered next week.
   The solution is given below.
-  - [ ] structs
-  - [ ] enums
-  - [ ] strings
-  - [ ] modules
-  - [ ] hashmaps
-  - [ ] quiz 2
-  - [ ] options
-  - [ ] error_handling
+  - [x] structs
+  - [x] enums
+  - [x] strings
+  - [x] modules
+  - [x] hashmaps
+  - [x] quiz 2
+  - [x] options
+  - [x] error_handling
     - In the exercise `errors5.rs`, the solution is `Box<dyn std::error::Error>>`.
-- [ ] Solve the custom exercise for `methods`.
+- [x] Solve the custom exercise for `methods`.
       Make sure you got it right by running `cargo test` in the `methods` directory.
 
 ## Homework
 
-- [ ] Check out in "Rust By Example":
+- [x] Check out in "Rust By Example":
   - [Match Guards](https://doc.rust-lang.org/rust-by-example/flow_control/match/guard.html)
   - [`HashSet`](https://doc.rust-lang.org/rust-by-example/std/hash/hashset.html)
-- [ ] standard library
+- [x] standard library
   - skim list of methods on `Option`
 - [ ] Solve the exercise [Anagram](https://exercism.org/tracks/rust/exercises/anagram) on Exercism.
 - [ ] Solve Advent of Code [2016: day 1](https://adventofcode.com/2016/day/1).
